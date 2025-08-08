@@ -60,7 +60,7 @@ The project is a practical implementation of **Object-Oriented Programming (OOP)
 
 ## 🖼 UML Diagram
 
-![UML Diagram](Images/UML.png)
+![UML Diagram](Images/UML(LIbrary_system).png)
 
 ---
 

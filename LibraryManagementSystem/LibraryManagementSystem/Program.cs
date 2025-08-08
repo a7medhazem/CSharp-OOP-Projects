@@ -65,7 +65,6 @@ namespace LibraryManagementSystem
                                         if (book != null)
                                             l1.AddBook(book, library);
                                         break;
-
                                     }
                                 case 'R':
                                     {
@@ -73,15 +72,13 @@ namespace LibraryManagementSystem
                                         if (book != null)
                                             l1.RemoveBook(book, library);
                                         break;
-
                                     }
                                 case 'D':
                                     l1.DisplayBooks(library);
-
-                                    break;
+                                    break;                                    
                                 case 'Q':
                                     Environment.Exit(0);
-                                    break;
+                                    break;            
                                 default:
                                     Console.WriteLine("Invalid choice, please try again.");
                                     break;
@@ -92,8 +89,6 @@ namespace LibraryManagementSystem
                     {
                         Console.WriteLine("Incorrect password. Please try again.");
                     }
-
-
                 }
                 else if (UserType == 2)
                 {
@@ -131,11 +126,9 @@ namespace LibraryManagementSystem
                                     if (book != null)
                                         l1.BorrowBook(book, library);
                                     break;
-
                                 }
                             case 'D':
                                 l1.DisplayBooks(library);
-
                                 break;
                             case 'Q':
                                 Environment.Exit(0);
@@ -201,9 +194,6 @@ namespace LibraryManagementSystem
             };
         }
 
-
-
-
         // Method to read password with asterisks '*'
         static string ReadPassword()
         {
@@ -235,9 +225,6 @@ namespace LibraryManagementSystem
 
             return password; // Return the actual password (without asterisks)
         }
-
     }
-
-
 }
 

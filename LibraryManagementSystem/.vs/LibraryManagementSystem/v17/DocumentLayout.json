@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\csharp\\csharp-oop-projects\\librarymanagementsystem\\librarymanagementsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{04ADAB6F-BDDE-4FEC-AB96-E6801ECF8335}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:02:16.735Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:23:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Librarian.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Librarian.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:25:32.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryUser.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryUser.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:25:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:25:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryCard.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:25:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\User.cs",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\User.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:25:31.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\README.md",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\README.md",
+              "ToolTip": "D:\\CSharp\\CSharp-OOP-Projects\\LibraryManagementSystem\\LibraryManagementSystem\\README.md",
+              "RelativeToolTip": "LibraryManagementSystem\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-06T23:42:41.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace MazeGame
 {
-    //create symbol '@'==> player
+    //create symbol of Player '@'
     internal class Player : IMazeObject
     {
 
         public char Icon { get { return '@'; } }
         public bool IsSolid { get { return false; } }
 
-        //the position of the player
+        //the start position of the player
         public int X { get; set; }
         public int Y { get; set; }
     }

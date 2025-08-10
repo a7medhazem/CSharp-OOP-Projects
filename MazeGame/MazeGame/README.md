@@ -60,5 +60,7 @@ Players can move through a maze using the **arrow keys** while avoiding walls an
 
 ## 🚀 How to Run  
 
-- Clone the repository:  
-   ```bash
+- Open the solution file (`MazeGame.sln`) in Visual Studio  
+- Set the startup project to **MazeGame**  
+- Run the project (F5 or "Start Debugging")  
+

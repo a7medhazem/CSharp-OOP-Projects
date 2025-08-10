@@ -8,7 +8,8 @@ The project is a practical implementation of **Object-Oriented Programming (OOP)
 ## 📌 Features
 
 ### 👨‍💼 For Librarians
-
+- 🔒 Access to librarian features requires a pre-set password (stored in the system).
+- 🛡️ Password input is hidden and displayed as asterisks `*` for privacy.
 - ➕ **Add** new books by entering:
   - Title
   - Author
@@ -24,8 +25,9 @@ The project is a practical implementation of **Object-Oriented Programming (OOP)
 ### 🛠 Additional Features
 
 - **Input Validation** for strings and numeric values (using `string.IsNullOrWhiteSpace()` and `int.TryParse()`)
+- Secure password entry for Librarians (hidden with asterisks `*`).
 - Structured code using **abstraction** and **inheritance**
-- Handles invalid input without crashing the program
+- Handles invalid input without crashing the program.
 
 ---
 
@@ -60,7 +62,7 @@ The project is a practical implementation of **Object-Oriented Programming (OOP)
 
 ## 🖼 UML Diagram
 
-![UML Diagram](Images/UML.png)
+![UML Diagram](Images/UML(LIbrary_system).png)
 
 ---
 

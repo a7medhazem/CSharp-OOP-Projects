@@ -8,11 +8,10 @@ namespace MazeGame
 {
     public class Maze
     {
-        private int Width;
-        private int Height;
+        private int Width; // shape width of the game
+        private int Height; // shape height of the game
         private Player _player;
-        private IMazeObject[,] shape;//to store the shape of the game
-
+        private IMazeObject[,] shape;// Contains the full layout of the game
         public Maze(int width, int height)
         {
             Width = width;
@@ -20,14 +19,16 @@ namespace MazeGame
             shape = new IMazeObject[Width, Height];
             _player = new Player()
             {
+                // Set the starting position of the player '@'       
                 X = 1,
                 Y = 1
             };
 
         }
+        
         public void DrawMaze()
         {
-            Console.Clear();
+            Console.Clear();// To display a single layout of the output screen
             for (int i = 0; i < Width; i++)
             {
                 for (int j = 0; j < Height; j++)
@@ -46,12 +47,14 @@ namespace MazeGame
                         {
                             //draw exit position
                             Console.BackgroundColor = ConsoleColor.White;
-
                             shape[Width - 2, Height - 1] = new EmptySpace();
                             Console.Write(shape[Width - 2, Height - 1].Icon);
                             Console.ResetColor();
                         }
-                        else if (i == 0 || j == 0 || i == Width - 1 || j == Height - 1 || (i == Width - 4 && j >= 5) || (i == Width - 6 && j <= Height - 4) || (i == Width - 2 && j == Height - 4))
+                        else if (i == 0 || j == 0 || i == Width - 1 || j == Height - 1 ||
+                                 (i == Width - 4 && j >= 5) ||
+                                 (i == Width - 6 && j <= Height - 4) ||
+                                 (i == Width - 2 && j == Height - 4))
                         {
                             //draw walls
                             Console.BackgroundColor = ConsoleColor.Red;
@@ -65,6 +68,7 @@ namespace MazeGame
 
                         else
                         {
+                            //draw empty spaces
                             shape[i, j] = new EmptySpace();
                             Console.Write(shape[i, j].Icon);
                         }
@@ -79,7 +83,7 @@ namespace MazeGame
 
         public void MovePlayer()
         {
-            ConsoleKeyInfo Key = Console.ReadKey();
+            ConsoleKeyInfo Key = Console.ReadKey(); // Read information about the input key
             ConsoleKey UserInput = Key.Key;//store key info
             switch (UserInput)
             {
@@ -99,6 +103,8 @@ namespace MazeGame
                     break;
             }
         }
+        
+        // Update the player's position after an arrow key is pressed
         private void UpdatePlayer(int dx, int dy)
         {
             int newX = _player.X + dx;

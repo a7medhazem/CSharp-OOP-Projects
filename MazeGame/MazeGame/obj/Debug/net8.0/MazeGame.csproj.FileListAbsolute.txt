@@ -1,0 +1,14 @@
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.exe
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.deps.json
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.runtimeconfig.json
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.dll
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\bin\Debug\net8.0\MazeGame.pdb
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfoInputs.cache
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.AssemblyInfo.cs
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.dll
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\refint\MazeGame.dll
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.pdb
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\MazeGame.genruntimeconfig.cache
+D:\CSharp\CSharp-OOP-Projects\MazeGame\MazeGame\obj\Debug\net8.0\ref\MazeGame.dll

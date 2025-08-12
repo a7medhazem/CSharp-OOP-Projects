@@ -46,7 +46,7 @@ An interactive maze game where the player moves through a maze using arrow keys,
 
 ---
 
-### 🧠 [Text Analyzer](./TextAnalyzer)
+### ​ [Text Data Analyzer](./TextDataAnalyzerProject)
 
 A tool for analyzing `.txt` and `.csv` files in a given folder, providing detailed statistics.
 

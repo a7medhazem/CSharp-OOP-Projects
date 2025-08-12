@@ -30,7 +30,7 @@ Built using **OOP principles** with abstraction, inheritance, and encapsulation.
 
 ---
 
-### 🎮 [Maze Game](./MazeGame)
+###  ​ [Maze Game](./MazeGame)
 
 An interactive maze game where the player moves through a maze using arrow keys, avoiding walls and aiming for the exit.
 

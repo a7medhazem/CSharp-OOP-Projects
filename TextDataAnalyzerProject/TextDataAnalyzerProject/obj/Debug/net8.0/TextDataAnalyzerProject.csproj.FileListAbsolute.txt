@@ -1,0 +1,14 @@
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\bin\Debug\net8.0\TextDataAnalyzerProject.exe
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\bin\Debug\net8.0\TextDataAnalyzerProject.deps.json
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\bin\Debug\net8.0\TextDataAnalyzerProject.runtimeconfig.json
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\bin\Debug\net8.0\TextDataAnalyzerProject.dll
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\bin\Debug\net8.0\TextDataAnalyzerProject.pdb
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.AssemblyInfoInputs.cache
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.AssemblyInfo.cs
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.csproj.CoreCompileInputs.cache
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.dll
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\refint\TextDataAnalyzerProject.dll
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.pdb
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\TextDataAnalyzerProject.genruntimeconfig.cache
+D:\CSharp\CSharp-OOP-Projects\TextDataAnalyzerProject\TextDataAnalyzerProject\obj\Debug\net8.0\ref\TextDataAnalyzerProject.dll

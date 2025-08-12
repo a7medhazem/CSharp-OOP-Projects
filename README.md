@@ -30,7 +30,7 @@ Built using **OOP principles** with abstraction, inheritance, and encapsulation.
 
 ---
 
-### 🎮 Maze Game Console App
+### 🎮 [Maze Game](./MazeGame)
 
 An interactive maze game where the player moves through a maze using arrow keys, avoiding walls and aiming for the exit.
 
@@ -46,7 +46,7 @@ An interactive maze game where the player moves through a maze using arrow keys,
 
 ---
 
-### 📊 Text Data Analyzer Console App
+### 🧠 [Text Analyzer](./TextAnalyzer)
 
 A tool for analyzing `.txt` and `.csv` files in a given folder, providing detailed statistics.
 

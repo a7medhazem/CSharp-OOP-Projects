@@ -13,7 +13,7 @@ Each project is simple, interactive, and built to demonstrate clean, organized c
 
 ---
 
-### 📚 Library Management System
+### 📚 [Library Management System](./LibraryManagementSystem)
 
 A console-based system that allows librarians and regular users to manage, borrow, and view books.  
 Built using **OOP principles** with abstraction, inheritance, and encapsulation.
